@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+button{
+    font-size: 30px;
+    padding: 10px;
+    background-color: blueviolet;
+    margin: 10px;
+}
+.changeBy{
+   font-size: 20px;
+}
